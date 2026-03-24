@@ -1,7 +1,7 @@
 # E-commerce Orders Analysis (MySQL Project)
 
 ## Overview
-This project analyzes customer orders, product performance, and revenue trends in an e-commerce environment using MySQL.
+This project analyzes customer orders, product performance, and revenue trends in an e-commerce environment using MySQL and Tableau.
 
 ## Objectives
 - Track completed and cancelled orders
@@ -27,12 +27,20 @@ This project analyzes customer orders, product performance, and revenue trends i
 ## Key Insights
 - Electronics generated the most revenue
 - A small group of customers drove a large share of sales
-- Completed orders are the main source of revenue
-- Monthly trends help track business performance over time
+- Completed orders were the main source of revenue
+- Monthly trends helped track business performance over time
 
-## Project Files
+## Tableau Dashboard
+This project includes a Tableau dashboard and story presentation built from exported CSV datasets.
+
+## Files Included
 - schema.sql
 - data_cleaning.sql
 - analysis_queries.sql
 - insights.md
+- data/
 - screenshots/
+- ecommerce_sales_dashboard.pdf
+
+## Business Impact
+The analysis shows that a small number of high-value customers and premium products drive a large share of revenue, which supports targeted marketing and product strategy decisions.
