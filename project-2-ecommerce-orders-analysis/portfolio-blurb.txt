@@ -1,0 +1,9 @@
+E-commerce Sales Analysis
+
+Analyzed customer purchasing behavior, revenue trends, and product performance using MySQL and Tableau.
+
+Highlights:
+- Built a relational database with customers, products, orders, and order items
+- Identified top customers and high-revenue products
+- Created a Tableau dashboard and story presentation
+- Delivered business recommendations based on revenue concentration and sales trends
